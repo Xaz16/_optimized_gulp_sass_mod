@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "description": "none",
+  "main": "gulpfile.js",
+  "authors": [
+    "Alexsis Chipiga"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "sass",
+    "npm",
+    "bower",
+    "html"
+  ],
+  "homepage": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}

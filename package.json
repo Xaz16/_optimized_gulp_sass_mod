@@ -1,14 +1,14 @@
 {
-  "name": "corporate_blue",
+  "name": "project",
   "version": "1.0.0",
-  "description": "Converting to html psd layout",
+  "description": "nonr",
   "main": "gulpfile.js",
   "scripts": {
     "test": "npm i"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xaz16/Corporate-blue.git"
+    "url": ""
   },
   "keywords": [
     "sass",
@@ -19,9 +19,9 @@
   "author": "Alexsis Chipiga",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Xaz16/Corporate-blue/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Xaz16/Corporate-blue#readme",
+  "homepage": "",
   "devDependencies": {
     "browser-sync": "^2.11.0",
     "gulp": "^3.9.0",
